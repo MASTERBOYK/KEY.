@@ -14,9 +14,58 @@
         "Allowoffline": true
     }, 
     {
+        "device_id": "6c6df75e9fe1fc47",
+        "username": "DARK",
+        "password": "HACKER",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "6de1dd7329047a30",
+        "username": "DARK",
+        "password": "HUNTER",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "4dd50da8175c75c7",
+        "username": "MASTER",
+        "password": "HACKER",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "03fc6620d8d0211d",
+        "username": "KING",
+        "password": "MASTER",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "ace74cbafaf5c934",
+        "username": "POWER",
+        "password": "MASTER",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "ae2e16b19061048d",
+        "username": "MASTER",
+        "password": "DARK",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "6ee8614e28dbacfd",
+        "username": "DARK",
+        "password": "TEAM",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }, 
+    {
         "device_id": "03fc6620d8d0211d",
         "username": "DARK",
-        "password": "MASTER",
+        "password": "HUNTERS",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     }
