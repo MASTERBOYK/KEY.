@@ -68,5 +68,12 @@
         "password": "HUNTERS",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "95ab9506c6e96200",
+        "username": "DARK",
+        "password": "MASTER",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
