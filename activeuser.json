@@ -3,77 +3,105 @@
         "device_id": "6acd69435febdd27",
         "username": "DARK",
         "password": "LEGEND",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     },
     {
         "device_id": "791ca087a1f449a2",
         "username": "DARK",
         "password": "MASTER",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }, 
     {
         "device_id": "6c6df75e9fe1fc47",
         "username": "DARK",
         "password": "HACKER",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }, 
     {
         "device_id": "6de1dd7329047a30",
         "username": "DARK",
         "password": "HUNTER",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }, 
     {
         "device_id": "4dd50da8175c75c7",
         "username": "MASTER",
         "password": "HACKER",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }, 
     {
         "device_id": "03fc6620d8d0211d",
         "username": "KING",
         "password": "MASTER",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }, 
     {
         "device_id": "ace74cbafaf5c934",
         "username": "POWER",
         "password": "MASTER",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }, 
     {
         "device_id": "ae2e16b19061048d",
         "username": "MASTER",
         "password": "DARK",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }, 
     {
         "device_id": "6ee8614e28dbacfd",
         "username": "DARK",
         "password": "TEAM",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }, 
     {
         "device_id": "533329d67d146649",
         "username": "DARK",
         "password": "HUNTERS",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     },
     {
         "device_id": "95ab9506c6e96200",
         "username": "DARK",
         "password": "MASTER",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11209acea84e5570",
+        "username": "LEGEND",
+        "password": "MASTER",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "bbb877f5e248a948",
+        "username": "DARK",
+        "password": "LEADER",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "c5feb763c1de5f15",
+        "username": "DARK-MASTER",
+        "password": "HACKER",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "20ff88c768a566c9",
+        "username": "DARK",
+        "password": "MASTER-HACKER",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     }
 ]
