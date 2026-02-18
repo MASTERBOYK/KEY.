@@ -103,5 +103,12 @@
         "password": "MASTER-HACKER",
         "expirydate": "31-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "66046fc02f3063f9",
+        "username": "DARK",
+        "password": "LEADER",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
     }
 ]
